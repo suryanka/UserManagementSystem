@@ -15,6 +15,6 @@
         is allowed to delete its profile.
         GET/profile - It return the list of all existing users.
     4.  Junit tests are provided for the methods of controller, dao and service classes.
-        ![image](https://github.com/suryanka/UserManagementSystem/assets/120125240/2684816f-7668-4932-a4cb-ba609627ab3d)
+![image](https://github.com/suryanka/UserManagementSystem/assets/120125240/2684816f-7668-4932-a4cb-ba609627ab3d)
 
  
